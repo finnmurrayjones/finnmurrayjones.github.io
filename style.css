@@ -1,11 +1,15 @@
-html { 
-  background: url(shamoon.jpg) no-repeat center center fixed; 
-  background-size: cover;
-}
-body{
-	font-family: Avenir Next;
+body { 
+	background: url("shamoon.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
 	text-align: center;
-	color: black;
-	font-size: 200%
-
+	font-size: 250%
+}
+h1{
+	background-color: grey;
+	color: white;
+}
+h3{
+	background-color: grey;
+	color: white;
 }
