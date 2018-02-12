@@ -32,6 +32,11 @@ body{
 .navlink{
 	color: white;
 }
+.car{
+	width: 50%;
+	margin: auto;
+	padding-bottom: 50px;
+}
 #moviebox{
 	max-width: 90%;
 	max-height: 90%;
