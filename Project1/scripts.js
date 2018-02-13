@@ -1,8 +1,15 @@
 $(document).ready(function(){
-  $('.car').slick({
+  $('.castcar').slick({
   	arrows: true,
   	adaptiveHeight: true,
-  	autoplay: true,
+  	autoplay: true
   });
+});
 
+$(document).ready(function(){
+  $('.awardscar').slick({
+  	arrows: true,
+  	adaptiveHeight: true,
+  	autoplay: true
+  });
 });

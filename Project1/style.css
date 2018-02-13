@@ -32,10 +32,15 @@ body{
 .navlink{
 	color: white;
 }
-.car{
+.castcar{
 	width: 50%;
 	margin: auto;
-	padding-bottom: 50px;
+	padding-bottom: 5%;
+}
+.awardscar{
+	width: 80%;
+	margin: auto;
+	padding-bottom: 2%;
 }
 #moviebox{
 	max-width: 90%;
