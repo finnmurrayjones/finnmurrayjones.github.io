@@ -1,0 +1,23 @@
+body{
+	background: url("img/artgallery.jpg") no-repeat center center fixed; 
+	background-size:cover;
+}
+
+.controls {
+	padding-left:3%;
+	position:absolute;
+	padding-top:2%;
+}
+
+a {
+	cursor:pointer;
+}
+
+.nextpage {
+	float:right;
+	margin-left:95%;
+	padding-top:2%;
+	z-index:10;
+	width:3%;
+	height:3%;
+}

@@ -1,0 +1,29 @@
+body{
+	background: url("img/coffeeshop.jpg") no-repeat center center fixed; 
+	background-size:cover;
+}
+
+.controls {
+	padding-left:3%;
+	position:absolute;
+	padding-top:2%;
+}
+
+a {
+	cursor:pointer;
+}
+
+.nextpage {
+	float:right;
+	right:0;
+	padding-top:2%;
+	padding-right:2%;
+	z-index:10;
+	width:5%;
+	height:5%;
+}
+
+#rewind {
+	max-width:3%;
+	height:auto;
+}

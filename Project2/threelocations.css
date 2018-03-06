@@ -1,0 +1,52 @@
+.locations {
+	width:90%;
+	height:auto;
+	padding:1%;
+}
+.locations:hover {
+	width:100%;
+	height:auto;
+}
+.locationtext {
+	font-size:3vw;
+	padding-top:5%;
+	color:white;
+	background-color:#333;
+	font-family:'Lato', sans serif;
+	text-align:center;
+	margin-left:5%;
+	margin-right:5%;
+	padding-bottom:5%;
+}
+.fullscreen {
+	height:100%;
+	width: 100%;
+	position: fixed;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	overflow: auto;
+  	color:white;
+  	background-color:#333;
+}
+
+.btn {
+	bottom:0;
+	right:0;
+	position:absolute;
+	color:white;
+	font-family:'Lato', sans serif;
+	float:bottom;
+}
+
+.btn:hover {
+	color:black;
+	border-color:black;
+}
+
+.x {
+	max-width:15%;
+	height:auto;
+	padding:3%;
+}
