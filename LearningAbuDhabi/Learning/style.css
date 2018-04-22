@@ -1,0 +1,59 @@
+#Container{
+	width: 80%;
+	margin: auto;
+	margin-top: 2.5%;
+}
+#Title{
+	font-family: Transport;
+	font-size: 4em;
+	font-weight: bold;
+	text-align: center;
+}
+#NavBox{
+	margin-top: 20px;
+
+    font-family: Helvetica Neue;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+	padding: 5px;
+}
+a{
+	color: black;
+}
+a:link{
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.SubTitle{
+	font-family: Helvetica Neue;
+	font-weight: bold;
+	margin-top: 2%;
+}
+#Construction{
+	color: red;
+	text-align: center;
+}
+#IntroText{
+}
+#Para2{
+	margin-bottom: 4%;
+}
+li{
+	display: inline;
+}
+.listimg{
+	padding-right: 3%;
+	width: 31%;
+}
+.endlistimg{
+	width: 31%;
+}
+.text{
+	font-family: Helvetica Neue;
+	font-size: 0.9em;
+	text-align: justify;
+	line-height: 1.2;
+}

@@ -16,6 +16,21 @@ body {
 	margin: auto;
 	width: 650px
 }
+#LearningTitle{
+	padding: 20px;
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+    text-align: center;
+	color: white;
+	margin: auto;
+	width: 650px
+}
 a{
 	color: white;
+}
+p{
+	color: red;
 }

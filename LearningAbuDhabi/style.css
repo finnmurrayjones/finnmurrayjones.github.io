@@ -1,0 +1,61 @@
+body { 
+	background: url("ibrahimi.jpg") no-repeat center center fixed; 
+	background-size: cover;
+}
+#MainTitle{
+
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+
+	font-family: Transport;
+	color: white;
+	font-size: 6em;
+	text-align: center;
+	
+	width: 10.2em;
+	margin: auto;
+	margin-top: 5%;
+
+}
+#EnterBox{
+
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+
+    font-family: Transport;
+	color: white;
+	font-size: 3em;
+	text-align: center;
+	padding: 0.1em;
+	
+	margin: auto;
+	margin-top: 25%;
+	width: 6.8em;
+
+}
+
+a:link {
+    text-decoration: none;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:active {
+    text-decoration: underline;
+    color: grey;
+}
