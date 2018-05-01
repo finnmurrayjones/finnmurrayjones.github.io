@@ -9,13 +9,18 @@
 	</head>
 	<body>
 		<div id="container">
-			<h1>HH Sheikh Shamoon</h1>
+			<h1>Coding Isn't Fun</h1>
 			<img id="shamoon" src="shamoon.png">
 			<br>
-			<iframe id="video" src="https://www.youtube.com/embed/8KS5cy9eSfU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+			<input type="button" value="HIDE VIDEO" 
+			onclick="document.getElementById('video').style.visibility='hidden'">
+
+			<input type="button" value="SHOW VIDEO"
+			onclick="document.getElementById('video').style.visibility='visible'">
+			<iframe id="video" src="https://www.youtube.com/embed/o7KpDBYYB4Q" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 			<br>
 			<img id="ibrahimi" src="ibrahimi.jpg">
 		</div>
-		<script type="text/javascript" src="script.js"></script>
+		<script type="text/javascript" src="scripts.js"></script>
 	</body>
 </html>

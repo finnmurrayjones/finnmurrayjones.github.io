@@ -6,9 +6,8 @@ document.addEventListener(
 
 	function init(){
 		Shamoon=document.getElementById("shamoon")
-		Zayed=document.getElementById("video")
+		Zayed=document.getElementById("ibrahimi")
 		Shamoon.addEventListener("mouseover", MakeBigger)
-		Shamoon.addEventListener("mouseclick", DisplayZayed)
 		Shamoon.addEventListener("mouseout", MakeSmaller)
 	}
 
@@ -17,9 +16,6 @@ function MakeBigger(){
 }
 
 function MakeSmaller(){
-	Shamoon.style.width="25%"
-}
-
-function DisplayZayed(){
-	Zayed.style.display="block"
+	Shamoon.style.width="25%";
+	alert("Make sure to watch the video!")
 }
