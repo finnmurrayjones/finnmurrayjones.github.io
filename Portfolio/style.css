@@ -1,0 +1,49 @@
+body { 
+	background: url("shamoon.jpg") no-repeat center center fixed; 
+	background-size: cover;
+	font-family: 'Roboto Condensed', sans-serif;
+	font-size: 250%
+}
+#MainTitle{
+	padding: 20px;
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+	text-align: center;
+	color: white;
+	margin: auto;
+	width: 850px
+}
+#LearningTitle{
+	padding: 20px;
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+    text-align: center;
+	color: white;
+	margin: auto;
+	width: 450px;
+}
+#CodingTitle{
+	padding: 20px;
+	background-image: 
+    linear-gradient(
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    );
+    text-align: center;
+	color: white;
+	margin: auto;
+	width: 450px;
+}
+a{
+	color: white;
+}
+p{
+	color: red;
+	font-weight: bold;
+}
